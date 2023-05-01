@@ -162,7 +162,8 @@ following in their footsteps.
 
 # Questions?
 
-You can reach out to us at [ocs@lco.global](mailto:ocs@lco.global).
+For application specific issues and help, please submit a github issue for that application.
+For all other questions you can reach out to us at [ocs@lco.global](mailto:ocs@lco.global).
 
 {% include github.html %}
 
